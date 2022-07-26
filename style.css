@@ -1,0 +1,21 @@
+*{
+	overflow-x: hidden;
+	text-transform:capitalize;
+	}
+
+
+.img_home{
+margin-top: 20px;
+padding: 20px;
+}
+.headline-home{
+margin-top: 20px;
+padding: 20px;
+}
+.text-med{
+    font-size:24px;
+}
+.Search-Plazma-Doner{
+	margin-top: 20px;
+	padding: 20px;
+}

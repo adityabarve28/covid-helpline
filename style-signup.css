@@ -1,0 +1,17 @@
+*{
+	/*overflow-y: hidden;*/
+	text-transform:capitalize;
+}
+.signup{
+	margin: 10%;
+	margin-top: 200px;
+	padding: 50px;
+	margin-bottom:200px;
+}
+.form-element-input{
+	padding: 20px;
+	overflow-y: hidden;
+}
+.form-control{
+    margin-top:20px;   
+}
